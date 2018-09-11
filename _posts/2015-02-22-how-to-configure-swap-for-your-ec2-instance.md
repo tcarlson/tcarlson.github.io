@@ -1,7 +1,6 @@
 ---
 title: How to configure swap for your EC2 instance
 layout: post
-image: wp-content/uploads/2015/05/swap.jpg
 categories:
   - AWS
   - SysAdmin
@@ -12,6 +11,8 @@ tags:
   - swap
   - sysadmin
 ---
+![Swap](/wp-content/uploads/2015/05/swap.jpg)
+
 Every time I fire up a new EC2 instance, I inevitably forget to configure swap memory for it (<a href="http://www.quora.com/Why-dont-Amazon-EC2-microinstances-come-preconfigured-with-swap" target="_blank">why don&#8217;t they just come pre-configured?</a>) only to realize it later when some application experiences sudden death at the hands of a (shriek!) OutOfMemoryError. I&#8217;ve gotten pretty quick at configuring this, and thought I&#8217;d share the recipe.
 
 The following instructions are for an EC2 instance running <a href="http://aws.amazon.com/amazon-linux-ami/" target="_blank">Amazon Linux</a> (which is basically CentOS). They will probably work for any RedHat-based distro.

@@ -1,19 +1,12 @@
 ---
 title: My notes from Lucene Revolution
 layout: post
-image: wp-content/uploads/2015/05/solr.jpeg
 categories:
   - Machine Learning
   - Solr
-tags:
-  - clustering
-  - lucene
-  - machine learning
-  - named entity recognition
-  - nlp
-  - search
-  - solr
 ---
+![Solr](/wp-content/uploads/2015/05/solr.jpeg)
+
 My notes and brainstorming from the <a href="http://lucenerevolution.org/past-events/" target="_blank">Lucene Revolution</a> conference in Cambridge, MA
 
 # Themes

@@ -1,16 +1,12 @@
 ---
 title: How to migrate your EC2 instance to SSD storage
 layout: post
-image: wp-content/uploads/2015/05/HDD-VS-SSD-825x429.jpg
 categories:
   - AWS
   - SysAdmin
-tags:
-  - aws
-  - ec2
-  - ssd
-  - sysadmin
 ---
+![SSD](/wp-content/uploads/2015/05/HDD-VS-SSD-825x429.jpg)
+
 Amazon Web Services <a href="https://aws.amazon.com/blogs/aws/new-ssd-backed-elastic-block-storage/" target="_blank">has made SSD the default storage type</a> for its EBS volumes and it&#8217;s actually <a href="http://aws.amazon.com/ebs/pricing/" target="_blank">pretty cheap</a>. However, to take advantage of this, you&#8217;ll need to migrate your production storage volumes to SSD. 
 
 I had been putting this off for awhile but it went surprisingly smoothly. The steps I took:
