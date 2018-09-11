@@ -1,10 +1,7 @@
 ---
-id: 19
 title: Mule ESB Experience
-date: 2015-05-19T14:57:52+00:00
-author: tcarlson
 layout: page
-guid: http://tcarlson.systems/wordpress/?page_id=19
+permalink: /mule/
 ---
 # Code Contributions
 

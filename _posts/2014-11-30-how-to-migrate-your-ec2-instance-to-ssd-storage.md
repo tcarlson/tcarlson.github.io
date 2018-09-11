@@ -1,12 +1,7 @@
 ---
-id: 78
 title: How to migrate your EC2 instance to SSD storage
-date: 2014-11-30T13:56:57+00:00
-author: tcarlson
 layout: post
-guid: http://tcarlson.systems/?p=78
-permalink: /2014/11/how-to-migrate-your-ec2-instance-to-ssd-storage/
-image: /wp-content/uploads/2015/05/HDD-VS-SSD-825x429.jpg
+image: wp-content/uploads/2015/05/HDD-VS-SSD-825x429.jpg
 categories:
   - AWS
   - SysAdmin
@@ -26,6 +21,6 @@ I had been putting this off for awhile but it went surprisingly smoothly. The st
   * Detach the old (magnetic) volumes from the instance
   * Attach the new (SSD) volumes to the instance, making sure to use the **same device names** as the original volumes (e.g., /dev/sda1, /dev/sdb)
   * Start the EC2 instance
-  * <a href="http://tcarlson.systems/index.php/2015/02/22/how-to-configure-swap-for-your-ec2-instance/" target="_blank">Reconfigure swap</a> (mine disappeared after the stop/start for some reason)
+  * <a href="index.php/2015/02/22/how-to-configure-swap-for-your-ec2-instance/" target="_blank">Reconfigure swap</a> (mine disappeared after the stop/start for some reason)
 
 You should be good-to-go at this point, the only gotchas for me were that `/dev/sda` is **not** the same as `/dev/sda1` and that my swap partition disappeared as a side effect. Our total downtime was less than 5 minutes, not bad!

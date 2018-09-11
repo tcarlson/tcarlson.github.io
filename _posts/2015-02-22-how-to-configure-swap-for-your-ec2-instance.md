@@ -1,12 +1,7 @@
 ---
-id: 69
 title: How to configure swap for your EC2 instance
-date: 2015-02-22T11:28:04+00:00
-author: tcarlson
 layout: post
-guid: http://tcarlson.systems/?p=69
-permalink: /2015/02/how-to-configure-swap-for-your-ec2-instance/
-image: /wp-content/uploads/2015/05/swap.jpg
+image: wp-content/uploads/2015/05/swap.jpg
 categories:
   - AWS
   - SysAdmin

@@ -1,12 +1,7 @@
 ---
-id: 57
 title: OSGi and Mule
-date: 2007-03-28T12:10:55+00:00
-author: tcarlson
 layout: post
-guid: http://tcarlson.systems/?p=57
-permalink: /2007/03/osgi-and-mule/
-image: /wp-content/uploads/2015/05/mule-and-osgi-825x510.png
+image: wp-content/uploads/2015/05/mule-and-osgi-825x510.png
 categories:
   - Mule
   - OSGi

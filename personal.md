@@ -1,10 +1,7 @@
 ---
-id: 2
 title: Personal Info
-date: 2015-05-06T01:07:43+00:00
-author: tcarlson
 layout: page
-guid: http://tcarlson.systems/wordpress/?page_id=2
+permalink: /personal/
 ---
 Happily married since 2000, father of two wonderful children. 
 

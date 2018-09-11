@@ -1,12 +1,7 @@
 ---
-id: 149
 title: 'Interview: CJ Silverio, CTO of NPM'
-date: 2018-02-23T16:02:20+00:00
-author: tcarlson
 layout: post
-guid: http://tcarlson.systems/?p=149
-permalink: /2018/02/interview-cj-silverio-cto-of-npm/
-image: /wp-content/uploads/2018/02/1200px-Npm-logo.svg_-e1519675536870.png
+image: wp-content/uploads/2018/02/1200px-Npm-logo.svg_-e1519675536870.png
 categories:
   - Architecture
   - Containers

@@ -1,12 +1,7 @@
 ---
-id: 51
 title: My notes from Lucene Revolution
-date: 2012-05-30T11:38:45+00:00
-author: tcarlson
 layout: post
-guid: http://tcarlson.systems/?p=51
-permalink: /2012/05/my-notes-from-lucene-revolution/
-image: /wp-content/uploads/2015/05/solr.jpeg
+image: wp-content/uploads/2015/05/solr.jpeg
 categories:
   - Machine Learning
   - Solr
