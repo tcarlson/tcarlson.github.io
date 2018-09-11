@@ -10,4 +10,4 @@ tags:
   - osgi
 format: link
 ---
-<a href="http://www.slideshare.net/ceefour/muleandos-gi-traviscarlson" target="_blank">OSGi and Mule</a> &#8211; Presentation at MuleCon 2007 (1,807 views!)
+<a href="http://www.slideshare.net/ceefour/muleandos-gi-traviscarlson" target="_blank">OSGi and Mule</a> &#8211; Presentation at MuleCon 2007 (2,159 views!)
