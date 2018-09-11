@@ -3,10 +3,6 @@ title: Improvements to exception handling for Mule 3
 layout: post
 categories:
   - Mule
-tags:
-  - exception handling
-  - mule
-format: link
 ---
 ![Exceptions](/wp-content/uploads/2010/09/exception.png)
 

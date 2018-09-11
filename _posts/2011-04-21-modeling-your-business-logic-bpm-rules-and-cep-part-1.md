@@ -4,14 +4,6 @@ layout: post
 categories:
   - jBPM
   - Mule
-tags:
-  - bpm
-  - cep
-  - drools
-  - jbpm
-  - mule
-  - rules
-format: link
 ---
 ![BPM](/wp-content/uploads/2011/04/SOA_Metamodel-300x247.png)
 

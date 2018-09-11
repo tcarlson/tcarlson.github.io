@@ -4,11 +4,6 @@ layout: post
 categories:
   - jBPM
   - Mule
-tags:
-  - bpm
-  - jbpm
-  - mule
-format: link
 ---
 ![jBPM](/wp-content/uploads/2010/04/loan.executions1.png)
 

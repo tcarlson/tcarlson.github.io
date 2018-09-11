@@ -3,9 +3,6 @@ title: Configuring Message Processors on Endpoints
 layout: post
 categories:
   - Mule
-tags:
-  - mule
-format: link
 ---
 ![Blocks](/wp-content/uploads/2010/09/Building-Block-Schematic-825x340.png)
 

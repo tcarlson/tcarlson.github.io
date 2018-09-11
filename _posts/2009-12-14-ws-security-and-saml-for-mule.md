@@ -3,11 +3,6 @@ title: WS-Security and SAML for Mule
 layout: post
 categories:
   - Mule
-tags:
-  - mule
-  - saml
-  - security
-format: link
 ---
 ![SSO](/wp-content/uploads/2009/12/sso-icon.png)
 

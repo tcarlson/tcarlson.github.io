@@ -9,6 +9,8 @@ categories:
 
 My notes and brainstorming from the <a href="http://lucenerevolution.org/past-events/" target="_blank">Lucene Revolution</a> conference in Cambridge, MA
 
+<!--more-->
+
 # Themes
 
 ## Clustering

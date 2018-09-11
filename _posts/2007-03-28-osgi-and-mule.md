@@ -4,10 +4,6 @@ layout: post
 categories:
   - Mule
   - OSGi
-tags:
-  - mule
-  - osgi
-format: link
 ---
 ![OSGi](/wp-content/uploads/2015/05/mule-and-osgi-825x510.png)
 

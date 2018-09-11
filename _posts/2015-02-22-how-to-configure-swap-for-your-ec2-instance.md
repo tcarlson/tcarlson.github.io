@@ -17,6 +17,8 @@ Every time I fire up a new EC2 instance, I inevitably forget to configure swap m
 
 The following instructions are for an EC2 instance running <a href="http://aws.amazon.com/amazon-linux-ami/" target="_blank">Amazon Linux</a> (which is basically CentOS). They will probably work for any RedHat-based distro.
 
+<!--more-->
+
 First of all, check to see if you already have swap configured:
   
 `<br />
