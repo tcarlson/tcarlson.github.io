@@ -14,4 +14,4 @@ categories:
   
 ![Joyent](/wp-content/uploads/2018/02/L3CnsFFWx4OJFUp2C7uUWA-joyentLogo-e1519674835600.png)
 
-[https://dzone.com/articles/expert-breaks-down-key-market-dynamics-for-kuberne]
+https://dzone.com/articles/expert-breaks-down-key-market-dynamics-for-kuberne

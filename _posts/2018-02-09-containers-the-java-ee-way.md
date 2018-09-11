@@ -12,4 +12,4 @@ categories:
   
 ![JavaEE](/wp-content/uploads/2018/02/javaee.png)
 
-[https://dzone.com/articles/containers-the-java-ee-way-codetalk-podcast]
+https://dzone.com/articles/containers-the-java-ee-way-codetalk-podcast

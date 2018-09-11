@@ -13,4 +13,4 @@ categories:
   
 ![NPM](/wp-content/uploads/2018/02/1200px-Npm-logo.svg_-e1519675536870.png)
 
-[https://dzone.com/articles/codetalk-how-npm-handles-3-billion-weekly-download]
+https://dzone.com/articles/codetalk-how-npm-handles-3-billion-weekly-download
