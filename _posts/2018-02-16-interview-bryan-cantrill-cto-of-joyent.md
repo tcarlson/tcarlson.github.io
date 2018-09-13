@@ -14,4 +14,4 @@ categories:
 
 <a href="https://dzone.com/articles/expert-breaks-down-key-market-dynamics-for-kuberne" rel="noopener" target="_blank">Listen to my interview</a> with <a href="https://twitter.com/bcantrill" target="_blank" rel="noopener">Bryan Cantrill</a>, CTO of <a href="https://www.joyent.com/" target="_blank" rel="noopener">Joyent</a>, discussing Kubernetes, AWS, Microservices, and the cloud computing landscape.
   
-https://dzone.com/articles/expert-breaks-down-key-market-dynamics-for-kuberne
+<https://dzone.com/articles/expert-breaks-down-key-market-dynamics-for-kuberne>
